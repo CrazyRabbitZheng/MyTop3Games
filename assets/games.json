@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Diablo II",
+    "year": 2000,
+    "description": "A classic ARPG with dark gothic themes and legendary loot hunts.",
+    "image": "diablo2"
+  },
+  {
+    "title": "Diablo IV",
+    "year": 2023,
+    "description": "An open-world action RPG featuring the return of Lilith and gritty, mature storytelling.",
+    "image": "diablo4"
+  },
+  {
+    "title": "Red Dead Redemption II",
+    "year": 2018,
+    "description": "An epic Western saga of loyalty, freedom, and survival on the American frontier.",
+    "image": "rdr2"
+  }
+]
